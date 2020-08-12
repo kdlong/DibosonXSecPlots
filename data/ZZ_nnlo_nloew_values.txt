@@ -1,0 +1,28 @@
+# Using MATRIX results for 2e2mu / (2*BR=0.033658)
+#6.5 5.756   3% 2.3%
+# Extrapolate from 7 TeV correction to NNLO only
+6.5 5.852   3% 2.3%
+#7   6.46    3%  2.30%
+# Using pt(l) > 50 MeV
+7   6.567    2.7%  2.5%
+# Extrapolate from 7 TeV correction to NNLO only
+#8   7.96    3.2%    2.4%
+#9   9.48    3.2%    2.4%
+8   8.09    3.2%    2.4%
+9   9.64    3.2%    2.4%
+#10  11.12   3.3%    2.5%
+# Using pt(l) > 50 MeV
+10  11.36 3.3%    2.5%
+# Extrapolate from 13 TeV correction to NNLO only
+# 11  12.77   3.4%    2.5%
+# 12  14.45   3.4%    2.6%
+11  13.038  3.4%    2.5%
+12  14.75   3.4%    2.6%
+#13  16.18   3.4%    2.7%
+# Only pt(l) for a-induced
+13  16.52   3.8%    3.3%
+# Use same k-factor and uncertainty as 13 TeV
+# 14  17.95   3.4%    2.7%
+# 14.1 18.120  3.4%    2.7%
+14  18.327  3.4%    2.7%
+14.1 18.50 3.4%    2.7%

@@ -26,7 +26,7 @@ def plotDataFromFile(file_name):
                 continue
             values = line.split()
             if len(values) < 2:
-                raise InvalidArgument("Invalid input file %s" % file_name)
+                raise ValueError("Invalid input file %s. Line content was: \n    %s" % (file_name, line))
             xvals.append(getVal(values[0]))
             central.append(getVal(values[1]))
             if len(values) < 3:
